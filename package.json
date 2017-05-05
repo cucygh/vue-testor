@@ -1,0 +1,24 @@
+{
+  "name": "vue-testor",
+  "version": "1.0.0",
+  "description": "Vue组件化测试配置生成工具",
+  "main": "index.js",
+  "bin":"lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cucygh/vue-testor.git"
+  },
+  "keywords": [
+    "vue",
+    "test"
+  ],
+  "author": "cuc_ygh@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucygh/vue-testor/issues"
+  },
+  "homepage": "https://github.com/cucygh/vue-testor#readme"
+}
